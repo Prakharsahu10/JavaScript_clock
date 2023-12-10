@@ -1,1 +1,1 @@
-# JavaScript_clock
+A real-time clock using Bootstrap.

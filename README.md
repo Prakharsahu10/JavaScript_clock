@@ -1,1 +1,1 @@
-A real-time clock using Bootstrap.
+A real-time clock using JavaScript and Bootstrap.
